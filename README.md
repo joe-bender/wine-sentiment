@@ -10,4 +10,4 @@ I created a statistical algorithm for sentiment-based classification of [wine re
 
 ## Requirements
 
-This project only requires Python, Pandas and MatPlotLib.
+This project only requires Python, Pandas and MatPlotLib. You will also need to download the [dataset](https://www.kaggle.com/zynicide/wine-reviews) and extract it to the same directory as the Jupyter notebook.
